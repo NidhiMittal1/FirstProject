@@ -1,0 +1,5 @@
+<Customers>
+<Customer><recordtype>customer</recordtype><entityid>XML Test 91</entityid><companyname>TEST XML 91</companyname><subsidiary>1</subsidiary></Customer>
+<Customer><recordtype>customer</recordtype><entityid>XML Test 92</entityid><companyname>TEST XML 92</companyname><subsidiary>1</subsidiary></Customer>
+<Customer><recordtype>customer</recordtype><entityid>XML Test 93</entityid><companyname>TEST XML 93</companyname><subsidiary>1</subsidiary></Customer>
+</Customers>

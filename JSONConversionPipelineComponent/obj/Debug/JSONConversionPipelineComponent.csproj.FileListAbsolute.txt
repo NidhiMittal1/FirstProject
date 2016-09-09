@@ -1,0 +1,7 @@
+C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\JSONConversionPipelineComponent\bin\Debug\JSONConversionPipelineComponent.dll
+C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\JSONConversionPipelineComponent\bin\Debug\JSONConversionPipelineComponent.pdb
+C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\JSONConversionPipelineComponent\obj\Debug\JSONConversionPipelineComponent.csprojResolveAssemblyReference.cache
+C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\JSONConversionPipelineComponent\obj\Debug\JSONConversionPipelineComponent.dll
+C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\JSONConversionPipelineComponent\obj\Debug\JSONConversionPipelineComponent.pdb
+C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\JSONConversionPipelineComponent\bin\Debug\Newtonsoft.Json.dll
+C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\JSONConversionPipelineComponent\bin\Debug\Newtonsoft.Json.xml

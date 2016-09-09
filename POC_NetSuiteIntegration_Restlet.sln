@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONConversionPipelineComponent", "JSONConversionPipelineComponent\JSONConversionPipelineComponent.csproj", "{8910A276-623C-47D0-9127-39860EDA0CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_NetSuiteIntegration_Restlet.JsonPipeline", "POC_NetSuiteIntegration_Restlet.JsonPipeline\POC_NetSuiteIntegration_Restlet.JsonPipeline.btproj", "{F9892AB9-A318-4AE8-94F8-9CA331F375F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_NetSuiteIntegration_Restlet.Orchestrations", "POC_NetSuiteIntegration_Restlet.Orchestrations\POC_NetSuiteIntegration_Restlet.Orchestrations.btproj", "{0019124A-9A63-4443-A366-EB6B22332376}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.212.94.8:8080/tfs/soa%20projects
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = JSONConversionPipelineComponent\\JSONConversionPipelineComponent.csproj
+		SccProjectName1 = JSONConversionPipelineComponent
+		SccLocalPath1 = JSONConversionPipelineComponent
+		SccProjectUniqueName2 = POC_NetSuiteIntegration_Restlet.JsonPipeline\\POC_NetSuiteIntegration_Restlet.JsonPipeline.btproj
+		SccProjectName2 = POC_NetSuiteIntegration_Restlet.JsonPipeline
+		SccLocalPath2 = POC_NetSuiteIntegration_Restlet.JsonPipeline
+		SccProjectUniqueName3 = POC_NetSuiteIntegration_Restlet.Orchestrations\\POC_NetSuiteIntegration_Restlet.Orchestrations.btproj
+		SccProjectName3 = POC_NetSuiteIntegration_Restlet.Orchestrations
+		SccLocalPath3 = POC_NetSuiteIntegration_Restlet.Orchestrations
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8910A276-623C-47D0-9127-39860EDA0CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8910A276-623C-47D0-9127-39860EDA0CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8910A276-623C-47D0-9127-39860EDA0CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8910A276-623C-47D0-9127-39860EDA0CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9892AB9-A318-4AE8-94F8-9CA331F375F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9892AB9-A318-4AE8-94F8-9CA331F375F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9892AB9-A318-4AE8-94F8-9CA331F375F5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F9892AB9-A318-4AE8-94F8-9CA331F375F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9892AB9-A318-4AE8-94F8-9CA331F375F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9892AB9-A318-4AE8-94F8-9CA331F375F5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0019124A-9A63-4443-A366-EB6B22332376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0019124A-9A63-4443-A366-EB6B22332376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0019124A-9A63-4443-A366-EB6B22332376}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0019124A-9A63-4443-A366-EB6B22332376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0019124A-9A63-4443-A366-EB6B22332376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0019124A-9A63-4443-A366-EB6B22332376}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
