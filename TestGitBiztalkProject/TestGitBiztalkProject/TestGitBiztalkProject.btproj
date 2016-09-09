@@ -61,6 +61,13 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Schema Include="Schema.xsd">
+      <TypeName>Schema</TypeName>
+      <Namespace>TestGitBiztalkProject</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\BizTalk\BizTalkC.targets" />
 </Project>
