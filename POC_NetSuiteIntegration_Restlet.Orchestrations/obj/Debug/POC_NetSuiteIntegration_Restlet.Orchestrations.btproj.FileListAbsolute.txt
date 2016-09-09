@@ -1,4 +1,0 @@
-C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\POC_NetSuiteIntegration_Restlet.Orchestrations\bin\Debug\POC_NetSuiteIntegration_Restlet.Orchestrations.dll
-C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\POC_NetSuiteIntegration_Restlet.Orchestrations\bin\Debug\POC_NetSuiteIntegration_Restlet.Orchestrations.pdb
-C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\POC_NetSuiteIntegration_Restlet.Orchestrations\obj\Debug\POC_NetSuiteIntegration_Restlet.Orchestrations.dll
-C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\POC_NetSuiteIntegration_Restlet.Orchestrations\obj\Debug\POC_NetSuiteIntegration_Restlet.Orchestrations.pdb

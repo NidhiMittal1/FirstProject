@@ -1,4 +1,0 @@
-C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\POC_NetSuiteIntegration_Restlet.JsonPipeline\bin\Debug\POC_NetSuiteIntegration_Restlet.JsonPipeline.dll
-C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\POC_NetSuiteIntegration_Restlet.JsonPipeline\bin\Debug\POC_NetSuiteIntegration_Restlet.JsonPipeline.pdb
-C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\POC_NetSuiteIntegration_Restlet.JsonPipeline\obj\Debug\POC_NetSuiteIntegration_Restlet.JsonPipeline.dll
-C:\FSR\DEV_INT\POC\POC_NetSuiteIntegration_Restlet\POC_NetSuiteIntegration_Restlet.JsonPipeline\obj\Debug\POC_NetSuiteIntegration_Restlet.JsonPipeline.pdb
